@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+}
+.link-text {
+  text-decoration: none;
+}
+.nav-text {
+  list-style-type: none;
+  color: #000000;
+}
